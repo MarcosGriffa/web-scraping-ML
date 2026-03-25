@@ -11,7 +11,7 @@ El flujo de datos está diseñado para ser completamente autónomo:
 5. **Notificación:** Reporte automatizado en **HTML profesional** enviado por Gmail.
 
 ## 🛠️ Tecnologías
-- **Lenguaje:** Python 3.x
+- **Lenguaje:** Python 3.14.3
 - **Librerías:** Requests, BeautifulSoup4, Pandas, Sqlite3.
 - **Automation:** n8n, Windows Batch (.bat).
 
